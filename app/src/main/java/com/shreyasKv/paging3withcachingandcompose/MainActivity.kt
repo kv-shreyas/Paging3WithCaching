@@ -30,6 +30,6 @@ class MainActivity : ComponentActivity() {
                     DrinkScreen(beers = beers)
                 }
             }
-        }
+        }//
     }
 }
